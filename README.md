@@ -30,4 +30,4 @@ This project is a responsive and elegant Movie Web App that allows users to brow
 ├── style.css
 ├── main.js
 ├── img/
-└── .vscode/
+└── .vscode
